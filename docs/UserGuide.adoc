@@ -283,7 +283,7 @@ The 2nd person in the address book will be involved in the 1st event in the even
 This command only displays a successful message. You cannot see explicit change in the panel. +
 You will see the following after typing above commands: +
 
-image::dummy_pic.png[width='790']
+image::UG_join.png[width='790']
 _Figure 3.8 join result_
 
 === Disconnecting a person to an event : `disjoin`
@@ -306,7 +306,7 @@ The 2nd person in the address book will not be involved in the 1st event in the 
 This command only displays a successful message. You cannot see explicit change in the panel. +
 You will see the following after typing above commands: +
 
-image::dummy_pic.png[width='790']
+image::UG_disjoin.png[width='790']
 _Figure 3.9 disjoin result_
 
 === Selecting
